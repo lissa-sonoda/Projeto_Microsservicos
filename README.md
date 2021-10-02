@@ -1,2 +1,2 @@
 # Projeto_Microsservicos
-Projeto composto por microsservicos de: lembretes, observações, barramento de eventos, consultas e classificação.
+Projeto composto por microsserviços de: lembretes, observações, barramento de eventos, consultas e classificação.
